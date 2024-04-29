@@ -1,0 +1,111 @@
+Country,Newspaper name,Twitter handle,Language
+Argentina,Clarín,clarincom,Spanish
+,Diario Crónica,cronica,
+,Infobae,infobae,
+,La Nación,LANACION,
+Australia,The Australian,australian,English
+,The Daily Telegraph,dailytelegraph,
+,The Australian Financial Review,FinancialReview,
+,The Age,theage,
+Brazil,Estadão,Estadao,Portuguese
+,Folha de S.Paulo,folha,
+,-        ,GauchaZH,
+,Jornal O Globo,JornalOGlobo,
+Canada,The Globe and Mail,globeandmail,English
+,Montreal Gazette,mtlgazette,
+,Ottawa Citizen,OttawaCitizen,
+,Toronto Star,TorontoStar,
+,The Vancouver Sun,VancouverSun,
+Switzerland,20 Minuten,20min,German
+,24 heures,24heuresch,
+,Le Temps,LeTemps,French
+,Neue Zürcher Zeitung,NZZ,
+Chile,El Mercurio,ElMercurio_cl,Spanish
+,El Mostrador,elmostrador,
+,La Tercera,latercera,
+China,China Daily,ChinaDaily,English
+,People's Daily China,PDChina,
+,China Xinhua News,XHNews,
+Colombia,El Colombiano,elcolombiano,Spanish
+,El Espectador,elespectador,
+,El Heraldo Colombia,elheraldoco,
+Germany,BILD,BILD,German
+,Frankfurter Allgemeine,faznet,
+,Handelsblatt,handelsblatt,
+,ZEIT ONLINE,zeitonline,
+Algeria,Al-Akhbar Al-Aan,echourouk,Arabic
+,El Khabar,elkhabarlive,
+,Ennahar Tv Algeria,ennaharonline,
+Egypt,Al Ahram,AlAhram,Arabic
+,Al-Masry Al-Youm,AlMasryAlYoum,
+,Youm,youm7,
+Spain,ABC,abc_es,Spanish
+,El País,el_pais,
+,El Mundo,elmundoes,
+,La Vanguardia,LaVanguardia,
+France,Le Figaro,Le_Figaro,French
+,Le Parisien,le_Parisien,
+,Le Monde,lemondefr,
+,Libération,libe,
+Hong Kong,Hong Kong Free Press,HongKongFP,English
+,RTHK News,rthk_enews,
+,SCMP News,SCMPNews,
+India,Economic Times,EconomicTimes,English
+,Hindustan Times,htTweets,
+,The Hindu,the_hindu,
+,Times of India,timesofindia,
+Italy,Corriere della Sera,Corriere,Italian
+,Repubblica,repubblica,
+,Il Sole 24 ORE,sole24ore,
+Japan,Asahi Shimbun AJW,AJWasahi,English
+,The Japan Times,japantimes,
+,Japan Today,JapanToday,
+,The Japan News,The_Japan_News,
+Korea,The Korea JoongAng Daily,JoongAngDaily,English
+,The Korea Times,koreatimescokr,
+,The Korea Herald,TheKoreaHerald,
+,Yonhap News,YonhapNews,
+Mexico,El Universal,El_Universal_Mx,Spanish
+,La Jornada,lajornadaonline,
+,Milenio,Milenio,
+,Reforma,Reforma,
+Nigeria,Mobile Punch,MobilePunch,English
+,The Nation News,TheNationNews,
+,Vanguard News,vanguardngrnews,
+Norway,Aftenposten,Aftenposten,Norwegian
+,Dagbladet,dagbladet,
+,VG,vgnett,
+New Zealand,Dominion Post,DomPost,English
+,ODT - Otago Daily Times,odtnews,
+,The Press Newsroom,PressNewsroom,
+Portugal,Correio da Manhã,cmjornal,Portuguese
+,Expresso,expresso,
+,Jornal de Notícias,JornalNoticias,
+Saudi Arabia,Al Jazirah,al_jazirah,Arabic
+,Alwatan,AlwatanSA,
+,OKAZ,OKAZ_online,
+Sweden,Dagens Nyheter,dagensnyheter,Swedish
+,Goteborgs Posten,GoteborgsPosten,
+,Svenska Dagbladet,SvD,
+,Sydsvenskan,sydsvenskan,
+Turkey (not included yet),Hurriyet,Hurriyet,Turkish
+,Milliyet,milliyet,
+,Yenisafak,yenisafak,
+United Kingdom,BBC News,BBCNews,English
+,Financial Times,FinancialTimes,
+,The Guardian,guardiannews,
+,The Times and The Sunday Times,thetimes,
+USA,Boston Globe,BostonGlobe,English
+,Chicago Tribune,chicagotribune,
+,Dallas News,dallasnews,
+,Houston Chronicle,HoustonChron,
+,LA Times,latimes,
+,Miami Herald,MiamiHerald,
+,NY Times,nytimes,
+,SF Chronicle,sfchronicle,
+,USA Today,USATODAY,
+,Washinton Post,washingtonpost,
+,Wall Street Journal,WSJ,
+South Africa,Daily Sun,dailysunsa,English
+,Sunday Times,SundayTimesZA,
+,Times Live,TimesLIVE,
